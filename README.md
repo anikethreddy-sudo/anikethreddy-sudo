@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**anikethreddy-sudo/anikethreddy-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm B. Aniketh Reddy
 
-Here are some ideas to get you started:
+### AIML Student | Python | SQL | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🌾 AgroVision AI
+- 🔐 Machine Log Checker
+- 📊 SQL Interview Practice
+
+## 🛠 Skills
+Python • SQL • Git • GitHub • Flask • Power BI
+
+## 🎯 Goal
+Software Engineer | 20–40 LPA Placement

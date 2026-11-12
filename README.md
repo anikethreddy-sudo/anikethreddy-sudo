@@ -1,99 +1,103 @@
-<!--
-  GitHub profile README
-  Theme: midnight navy + electric teal
--->
+<!-- Professional GitHub profile | B. Aniketh Reddy -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:071A2B,55:0B6E69,100:16B8A6&text=ANIKETH%20REDDY&fontColor=F4FFFD&fontSize=48&fontAlignY=38&desc=AI%2FML%20%7C%20BACKEND%20%7C%20BUILDING%20WHAT'S%20NEXT&descAlignY=59&descSize=14" width="100%" alt="Aniketh Reddy profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101F35,100:176B68&text=B.%20ANIKETH%20REDDY&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=67&descSize=13" width="100%" alt="B. Aniketh Reddy — AI and software engineering" />
 
-<a href="https://github.com/anikethreddy-sudo">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=19C7B5&center=true&vCenter=true&width=650&lines=AI%2FML+Engineering+Student;Turning+ideas+into+working+products;Python+%7C+FastAPI+%7C+Deep+Learning;Build.+Break.+Learn.+Repeat." alt="Typing introduction" />
-</a>
+### AI/ML Engineering Student | Applied AI • Backend Development • Data Analytics
+
+Building practical software at the intersection of intelligent systems and real-world problems.
 
 <p>
-  <a href="https://github.com/anikethreddy-sudo?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0B6E69?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="https://mediscan-ai-aniketh.vercel.app"><img src="https://img.shields.io/badge/TRY%20MEDISCAN%20AI-123B50?style=for-the-badge&logo=vercel&logoColor=white" alt="MediScan AI demo" /></a>
+  <a href="https://github.com/anikethreddy-sudo?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore%20Repositories-176B68?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://mediscan-ai-aniketh.vercel.app"><img src="https://img.shields.io/badge/DEMO-MediScan%20AI-263B55?style=for-the-badge&logo=vercel&logoColor=white" alt="MediScan AI demo" /></a>
 </p>
 
 </div>
 
 ---
 
-## 01 / THE PERSON BEHIND THE CODE
+## Profile
 
-Hey! I'm **B. Aniketh Reddy**, a B.Tech student focused on **Artificial Intelligence & Machine Learning**.
+I’m **B. Aniketh Reddy**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning**. I enjoy taking ideas from problem definition to working applications — combining machine learning, APIs, databases, and user-focused interfaces.
 
-I like building things that solve actual problems — not just notebooks that stop at model accuracy. My interests sit at the intersection of machine learning, backend engineering, and practical product development.
+My current focus is on strengthening the engineering fundamentals behind reliable AI products: model development, backend systems, data handling, and problem-solving.
 
-- 🧠 **Focus:** Applied AI, deep learning, and intelligent systems
-- ⚙️ **Build with:** Python, FastAPI, SQL, and modern web technologies
-- 🌱 **Currently sharpening:** DSA, system design fundamentals, and production-minded development
-- 🎯 **Direction:** AI/ML Engineer
+- **Interests:** Applied AI, deep learning, computer vision, and intelligent applications
+- **Development:** Python, FastAPI, SQL, and web technologies
+- **Cloud & tools:** AWS, Git, GitHub, and VS Code
+- **Currently learning:** Data structures, algorithms, and production-oriented software development
+- **Career direction:** AI/ML Engineer
 
-## 02 / MY TOOLKIT
+## Technical Skills
 
 <div align="center">
 
-**LANGUAGES & DATA**
-
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql" alt="Python, PostgreSQL and MySQL" />
-
-**BACKEND, AI & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=fastapi,tensorflow,opencv,aws,git,github,vscode" alt="FastAPI, TensorFlow, OpenCV, AWS, Git, GitHub and VS Code" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,opencv,postgres,mysql,aws,git,github,vscode" alt="Python, FastAPI, TensorFlow, OpenCV, PostgreSQL, MySQL, AWS, Git, GitHub and VS Code" />
 
 </div>
 
-## 03 / SELECTED BUILDS
+| Area | Technologies |
+| --- | --- |
+| Programming | Python, SQL |
+| AI / ML | TensorFlow, deep learning, computer vision |
+| Backend | FastAPI, REST APIs |
+| Databases | PostgreSQL, SQLite, MySQL |
+| Tools & Cloud | Git, GitHub, AWS, VS Code |
+
+## Selected Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩻 MediScan AI</h3>
-      <p><b>AI-assisted chest X-ray screening</b></p>
-      <p>Deep-learning based image analysis with visual explanations using Grad-CAM and patient scan records.</p>
+      <h3>MediScan AI</h3>
+      <p><strong>AI-assisted chest X-ray screening</strong></p>
+      <p>Deep-learning application for NORMAL/PNEUMONIA classification, Grad-CAM visual explanations, and patient scan records.</p>
       <p><sub>Python · TensorFlow · FastAPI · React</sub></p>
-      <a href="https://mediscan-ai-aniketh.vercel.app">↗ Live application</a> · <a href="https://mediscanai-backend-pzfz.onrender.com/docs">API docs</a> · <a href="https://github.com/anikethreddy-sudo/MediScanAi">Source</a>
+      <a href="https://mediscan-ai-aniketh.vercel.app">Live Demo</a> · <a href="https://mediscanai-backend-pzfz.onrender.com/docs">API Documentation</a> · <a href="https://github.com/anikethreddy-sudo/MediScanAi">Source Code</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ LogGuard</h3>
-      <p><b>Log analysis project</b></p>
-      <p>A Python-focused project exploring application log analysis and developer tooling.</p>
-      <p><sub>Python</sub></p>
-      <a href="https://github.com/anikethreddy-sudo/logguard">↗ View repository</a>
+      <h3>AI Operations Copilot</h3>
+      <p><strong>Operational insights for small businesses</strong></p>
+      <p>Backend application supporting inventory monitoring, low-stock alerts, sales tracking, and operational data workflows.</p>
+      <p><sub>Python · FastAPI · PostgreSQL</sub></p>
+      <a href="https://github.com/anikethreddy-sudo/ai-operations-copilot">Source Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 AI Operations Copilot</h3>
-      <p><b>Small-business operations assistant</b></p>
-      <p>Working toward practical workflows for inventory monitoring, sales insights, and operational decision support.</p>
-      <p><sub>Python · FastAPI · PostgreSQL</sub></p>
-      <a href="https://github.com/anikethreddy-sudo/ai-operations-copilot">↗ View repository</a>
+      <h3>LogGuard</h3>
+      <p><strong>Application log analysis</strong></p>
+      <p>Python project focused on working with application logs and developer-oriented tooling.</p>
+      <p><sub>Python</sub></p>
+      <a href="https://github.com/anikethreddy-sudo/logguard">Source Code</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Placement Prep Sprint</h3>
-      <p><b>DSA practice, one problem at a time</b></p>
-      <p>A structured record of problem-solving practice, patterns, and Python implementations.</p>
-      <p><sub>Python · Data Structures & Algorithms</sub></p>
-      <a href="https://github.com/anikethreddy-sudo/placement-prep-sprint1">↗ View repository</a>
+      <h3>Placement Prep Sprint</h3>
+      <p><strong>Data structures and algorithms</strong></p>
+      <p>A structured collection of Python problem-solving practice, covering core DSA topics and coding patterns.</p>
+      <p><sub>Python · DSA</sub></p>
+      <a href="https://github.com/anikethreddy-sudo/placement-prep-sprint1">Source Code</a>
     </td>
   </tr>
 </table>
 
-<sub>Note: MediScan AI is an educational decision-support project, not a substitute for professional medical diagnosis.</sub>
+## Other Projects & Explorations
 
-## 04 / GITHUB SIGNAL
+| Project | Focus |
+| --- | --- |
+| **ZENVORA** | Multi-crisis preparedness and response platform, with a focus on accessible guidance, offline essentials, and privacy-conscious design. |
+| **Ambulance Coordination Platform** | Emergency green-corridor coordination concept connecting ambulance alerts with traffic police in the relevant duty area. |
+| **University Student Performance Analytics** | Data analytics dashboard exploring academic performance, attendance, study habits, and student outcomes. |
+| **VisionStock AI** | Computer-vision-oriented inventory project. |
+| **OSCN — Lecture Room Booking** | Room-booking system exploring availability, duplicate prevention, and concurrent booking requests. |
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anikethreddy-sudo&show_icons=true&hide_border=true&bg_color=00000000&title_color=19C7B5&icon_color=19C7B5&text_color=9FB7C5&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikethreddy-sudo&layout=compact&hide_border=true&bg_color=00000000&title_color=19C7B5&text_color=9FB7C5" alt="Most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=anikethreddy-sudo&hide_border=true&background=00000000&ring=19C7B5&fire=19C7B5&currStreakLabel=19C7B5&sideLabels=9FB7C5&dates=78909C&currStreakNum=E8FFFC&sideNums=E8FFFC" alt="GitHub contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anikethreddy-sudo&show_icons=true&hide_border=true&bg_color=00000000&title_color=176B68&icon_color=176B68&text_color=667085" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikethreddy-sudo&layout=compact&hide_border=true&bg_color=00000000&title_color=176B68&text_color=667085" alt="Most used languages" />
 
 </div>
 
@@ -101,11 +105,11 @@ I like building things that solve actual problems — not just notebooks that st
 
 <div align="center">
 
-### BUILD WITH PURPOSE. LEARN IN PUBLIC. KEEP SHIPPING.
+**Interested in building useful technology and continuously improving as an engineer.**
 
-<a href="https://github.com/anikethreddy-sudo">GitHub</a> ·
-<a href="https://github.com/anikethreddy-sudo?tab=repositories">All repositories</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:16B8A6,55:0B6E69,100:071A2B" width="100%" alt="" />
+<a href="https://github.com/anikethreddy-sudo">GitHub Profile</a> ·
+<a href="https://github.com/anikethreddy-sudo?tab=repositories">All Repositories</a>
 
 </div>
+
+<sub>Disclaimer: MediScan AI is an educational decision-support project and is not a substitute for professional medical diagnosis.</sub>
